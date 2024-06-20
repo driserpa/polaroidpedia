@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "titulo": "Todas"
+    },
+    {
+        "id": 1,
+        "titulo": "Series",
+        "tag":1
+    },
+    {
+        "id": 2,
+        "titulo": "Filmes",
+        "tag":2
+    },
+    {
+        "id": 3,
+        "titulo": "Livros",
+        "tag":3
+    }
+]

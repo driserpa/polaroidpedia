@@ -1,0 +1,107 @@
+[
+  {
+    "titulo": "Jogos Vorazes",
+    "palavras": "Hunger Games, Jogos Vorazes, Katniss, Peeta",
+    "genero": "Distopia, Ação, Romance",
+    "path": "/imagens/galeria/hungergames.jpg",
+    "id": "1",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "Vingadores: Ultimato",
+    "palavras": "Vingadores, Endgame, Ultimato",
+    "genero": "Ação, Aventura, Ficção cintifica",
+    "path": "/imagens/galeria/endgame.jpg",
+    "id": "2",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "O Primeiro Amor",
+    "palavras": "O primeiro amor, flipped",
+    "genero": "Romance, Comedia romantica, Adolescente",
+    "path": "/imagens/galeria/flipped.jpg",
+    "id": "3",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "Frozen",
+    "palavras": "Frozen, elsa, ana, anna",
+    "genero": "Animação, Infantil, Filme musica",
+    "path": "/imagens/galeria/frozen.jpg",
+    "id": "4",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "Jurassic Park",
+    "palavras": "Parque dos dinoussaros, jurassic park, dinossauros",
+    "genero": "Ação, Aventura, Ficção cientifica",
+    "path": "/imagens/galeria/jurassicpark.jpg",
+    "id": "5",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "Simplesmente Acontece",
+    "palavras": "love rosie, simplesmente acontece, rosie, simplesmente amor",
+    "genero": "Romance, Comedia romantica, Comedia",
+    "path": "/imagens/galeria/loverosie.jpg",
+    "id": "6",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "Moana",
+    "palavras": "Moana, Mar, Maui",
+    "genero": "Animação, Infantil, Filme musica",
+    "path": "/imagens/galeria/moana.jpg",
+    "id": "7",
+    "tagId": 2,
+    "favorita": ""
+  },
+  {
+    "titulo": "One Tree Hill",
+    "palavras": "One tree hill, payton, brooke, haley",
+    "genero": "Drama, Romance, Adolescente",
+    "path": "/imagens/galeria/onetreehill.jpg",
+    "id": "8",
+    "tagId": 1,
+    "favorita": ""
+  },  {
+    "titulo": "Better Than The Movies",
+    "palavras": "Better Than The Movies, liz, wes",
+    "genero": "Comedia Romance, Adolescente, Drama",
+    "path": "/imagens/galeria/bttm.jpg",
+    "id": "9",
+    "tagId": 3,
+    "favorita": ""
+  },  {
+    "titulo": "Caraval",
+    "palavras": "Caraval, Legend, Lenda, Tella",
+    "genero": "Fantasia, Romance, Ficção",
+    "path": "/imagens/galeria/caraval.jpg",
+    "id": "10",
+    "tagId": 3,
+    "favorita": ""
+  },  {
+    "titulo": "Amor, Teoricamente",
+    "palavras": "Amor Teoricamente, Love, Theoretically",
+    "genero": "Romance, Ficção, Drama",
+    "path": "/imagens/galeria/lovetheoretically.jpg",
+    "id": "11",
+    "tagId": 3,
+    "favorita": ""
+  },
+  {
+    "titulo": "Manual de Assassinato Para Boas Garotas",
+    "palavras": "Manual de Assassinato Para Boas Garotas, Pip, Ravi",
+    "genero": "Suspense, Ação, Thriller",
+    "path": "/imagens/galeria/mdapbg.jpg",
+    "id": "12",
+    "tagId": 3,
+    "favorita": ""
+  }
+]
